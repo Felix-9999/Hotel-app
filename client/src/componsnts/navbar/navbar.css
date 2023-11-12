@@ -5,7 +5,7 @@
     justify-content: center;
 }
 
-.navContaine {
+.navContainer {
     width: 100%;
     max-width: 1024px;
     color: white;
@@ -18,7 +18,7 @@
     font-weight: 500;
 }
 
-.navButon {
+.navButton {
     margin-left: 20px;
     border: none;
     padding: 5px 10px;
